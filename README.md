@@ -7,7 +7,7 @@ index.html:
 ```html
 <html>
     <head>
-        <script src="../piss.js"></script>
+        <script src="https://raw.githubusercontent.com/grian32/piss.js/master/piss.js"></script>
         <script src="test.js" defer></script>
     </head>
 
