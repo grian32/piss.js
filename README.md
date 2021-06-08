@@ -1,6 +1,6 @@
 # piss.js
 
-A simple and minimal JS Framework with 0 deps containing one function, `piss`. This function has the background color changed to yellow and the text color changed to orange of any elements that match the selector given.
+A simple and minimal, ultra-lightweight vanilla JS framework with 0 deps, containing one function, `piss`. This function has the background color changed to yellow and the text color changed to orange of any elements that match the selector given.
 
 ## Example Code
 index.html: 
