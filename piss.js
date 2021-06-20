@@ -7,3 +7,5 @@ function piss(selector) {
         i.style.color = "orange";
     }
 }
+
+export default piss;
